@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ur9ZLlcZzGFV+cWQKdhx44PbF1mPmImFHkTKvHj1oRIGatcuOxsH0jV4c1HPaKBTmonBCcgJcxRCEgGoGvblA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo T430\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
