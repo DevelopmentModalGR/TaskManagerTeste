@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj": {}
+    "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj": {
+    "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj",
         "projectName": "TaskManagerCore2.Domain",
-        "projectPath": "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj",
-        "packagesPath": "C:\\Users\\Lenovo T430\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Domain\\obj\\",
+        "projectPath": "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj",
+        "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo T430\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +52,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

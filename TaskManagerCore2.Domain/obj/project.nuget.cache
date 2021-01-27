@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ur9ZLlcZzGFV+cWQKdhx44PbF1mPmImFHkTKvHj1oRIGatcuOxsH0jV4c1HPaKBTmonBCcgJcxRCEgGoGvblA==",
+  "dgSpecHash": "y9yAOoMFnVelGdlRYxo2YpySMP0ickK8jrb5z4vuddLCvW6bSz+pP2wk+g1XvgbJ5nvDrPG9GgGI7hcAPmj7Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Lenovo T430\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

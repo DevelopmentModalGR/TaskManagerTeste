@@ -4,5 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskManagerCore2.Data\TaskManagerCore2.Data.csproj" />
+    <ProjectReference Include="..\TaskManagerCore2.Domain\TaskManagerCore2.Domain.csproj" />
+  </ItemGroup>
+
 
 </Project>

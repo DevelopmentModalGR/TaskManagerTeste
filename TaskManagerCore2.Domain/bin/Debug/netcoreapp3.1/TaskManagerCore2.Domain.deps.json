@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TaskManagerCore2.Domain/1.0.0": {
+        "runtime": {
+          "TaskManagerCore2.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManagerCore2.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

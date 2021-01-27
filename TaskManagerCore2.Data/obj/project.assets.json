@@ -544,19 +544,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo T430\\.nuget\\packages\\": {}
+    "C:\\Users\\renat\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Data\\TaskManagerCore2.Data.csproj",
+      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Data\\TaskManagerCore2.Data.csproj",
       "projectName": "TaskManagerCore2.Data",
-      "projectPath": "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Data\\TaskManagerCore2.Data.csproj",
-      "packagesPath": "C:\\Users\\Lenovo T430\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Data\\obj\\",
+      "projectPath": "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Data\\TaskManagerCore2.Data.csproj",
+      "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Lenovo T430\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -570,8 +574,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj": {
-              "projectPath": "C:\\Users\\Lenovo T430\\source\\repos\\TaskManagerCore2\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj"
+            "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj": {
+              "projectPath": "C:\\Users\\renat\\Desktop\\Temp\\modal\\modalTaskmanager\\TaskManagerTeste\\TaskManagerCore2.Domain\\TaskManagerCore2.Domain.csproj"
             }
           }
         }
@@ -601,18 +605,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

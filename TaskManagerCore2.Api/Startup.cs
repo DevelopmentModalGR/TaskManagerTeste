@@ -10,6 +10,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TaskManagerCore2.Data.Context;
+using TaskManagerCore2.Data.Repositories;
+using TaskManagerCore2.Domain.Interfaces;
 
 namespace TaskManagerCore2.Api
 {
@@ -25,6 +28,10 @@ namespace TaskManagerCore2.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddScoped<DataContext>();
+            services.AddScoped<IJobRepository,JobRepository>();
+
             services.AddControllers();
         }
 
